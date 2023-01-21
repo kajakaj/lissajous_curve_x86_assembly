@@ -6,7 +6,7 @@ You can change values of Lissajous Curve parameters while the program is running
 x(t) = sin(at + phi)  
 y(t) = sin(bt)  
 a - left and right key  
-b - down and up key
+b - down and up key  
 phi - key pad 4 and 6
 
 ![](https://github.com/kajakaj/lissajous_curve_x86_assembly/blob/main/demo1.png?raw=true)
